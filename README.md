@@ -117,6 +117,8 @@ Algo que tambien utilizaremos seran las particulas de explosion ya que buscamos 
       <img src="https://github.com/joseadolfomartinezolvera/Imagenes-evidencia/blob/main/Particulas.png?raw=true" width=1200 height=400>
 <p align="center"
   
+   
+   
 ## Autor
 Jose Adolfo Martinez Olvera
 
