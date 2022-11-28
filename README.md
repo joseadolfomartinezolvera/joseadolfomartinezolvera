@@ -17,7 +17,7 @@
 - [Introducción](#introducción)
 - [Código Fuente](#código-fuente)
 - [Planificación](#planificación)
-- [Autores](#autores)
+- [Autor](#autor)
 - [Copyright](#copyright)
 
 
@@ -80,9 +80,43 @@
     <p align="center">
 
 ## Planificación
-
-![4337008](https://user-images.githubusercontent.com/8560750/195951617-083a7e4d-323d-47b5-8e5e-529ded31bc06.jpg)
-
+Para la creacion de este Juego se hizo un rediseño total de la idea original debido a indicaciones del facilitador, se tomo como idea principal el esquivar objetos 
+mientras nos movemos por la pantalla obteniendo puntos y vidas que se reflejen a la vista del jugador, tambien como se sabe algo muy importante que los juegos deben de tener es una pantalla de "Pausa" que le permita descansar a los jugadores o bien quieren reiniciar el nivel por alguna razon.
+Otro punto muy importante a tomar en cuenta es la seleccion de de niveles y una pantalla de inicio que permita que los jugadores se familiaricen con los controles. 
+   *Diseño 
+Para el diseño de nuestras pantallas y botones utilizaremos un paquete de recursos que se encuentra de forma gratuita
+  <a href="https://assetstore.unity.com/packages/2d/gui/puzzle-stage-settings-gui-pack-147389">Puzzle stage & settings GUI Pack</a>
+- Items 
+    - Vida 
+Para nuestras vidas se utilizara un png con la forma de lo s corazones que deseamos que se muestren en nuestra pantalla, las vidas aumentaran solo cuando nuestro jugador reciba daño, de otra forma aunque tomemos el item de vida no sera acumulativo
+<p align="center">
+      <img src="https://github.com/joseadolfomartinezolvera/Imagenes-evidencia/blob/main/Pixel%20Heart%20Sprite%20Sheet%2032x32.png?raw=true" alt="Vidas" width=1200 height=400>
+<p align="center">
+    Para que los jugadores sepan cuales items mostrados sirvan para que cosa cada uno tiene una forma difente por lo cual cuando una vida aparezca en pantalla se mostrara con la siguiente forma:
+<p align="center">
+      <img src="https://github.com/joseadolfomartinezolvera/Imagenes-evidencia/blob/main/ItemVida.png?raw=true" alt="ItemVida" width=1200 height=400>
+<p align="center">
+    
+ Y para nuestros puntos los cuales apareceran mas en pantalla junto a nuestros enemigos, ellos se veran de esta forma:
+ <p align="center">
+      <img src="https://github.com/joseadolfomartinezolvera/Imagenes-evidencia/blob/main/ItemPoints.png?raw=true" alt="ItemPoint" width=1200 height=400>
+<p align="center">   
+    
+Como ya se menciono tendremos enemigos en pantalla asi que para estos utilizaremos los autos que fueron facilitados en el Laboratorio 5:
+<p align="center">
+      <img src="https://github.com/joseadolfomartinezolvera/Imagenes-evidencia/blob/main/ItemEnemy.png?raw=true" width=1200 height=400>
+    Enemigo 2
+<p align="center"> 
+ Ahora bien para que los jogadores no se confundan sobre que es lo que manejan utilizaremos nuevamente uno de los modelos anteriormente mencionados: 
+ <p align="center">
+    <img src="https://github.com/joseadolfomartinezolvera/Imagenes-evidencia/blob/main/Player.png?raw=true" width=1200 height=400>
+        Jugador 
+<p align="center"> 
+Algo que tambien utilizaremos seran las particulas de explosion ya que buscamos que cuando nuestro auto sufra un daño este se vea reflejado asi que ademas de eliminar una vida en pantalla tambien se reproduciran las particulas al instante de la colision:
+     <p align="center">
+      <img src="https://github.com/joseadolfomartinezolvera/Imagenes-evidencia/blob/main/Particulas.png?raw=true" width=1200 height=400>
+<p align="center"
+  
 ## Autor
 Jose Adolfo Martinez Olvera
 
