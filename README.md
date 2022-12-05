@@ -89,6 +89,7 @@
     <p align="center">
 * LAboratorios
   * <a href="https://github.com/joseadolfomartinezolvera/Laboratorios2-3-4-5/tree/main/Assets">Laboratorios del 2 al 5</a>  
+    <a href="https://drive.google.com/drive/folders/17qlCcjlEoDuENVAHEQDeWU-QgOGkCGCo?usp=sharing">Versiones de laboaratorio</a>
 ## Planificación
 Para la creacion de este Juego se hizo un rediseño total de la idea original debido a indicaciones del facilitador, se tomo como idea principal el esquivar objetos 
 mientras nos movemos por la pantalla obteniendo puntos y vidas que se reflejen a la vista del jugador, tambien como se sabe algo muy importante que los juegos deben de tener es una pantalla de "Pausa" que le permita descansar a los jugadores o bien quieren reiniciar el nivel por alguna razon.
