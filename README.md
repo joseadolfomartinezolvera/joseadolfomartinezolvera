@@ -126,7 +126,9 @@ Como ya se menciono tendremos enemigos en pantalla asi que para estos utilizarem
 Algo que tambien utilizaremos seran las particulas de explosion ya que buscamos que cuando nuestro auto sufra un daño este se vea reflejado asi que ademas de eliminar una vida en pantalla tambien se reproduciran las particulas al instante de la colision:
      <p align="center">
       <img src="https://github.com/joseadolfomartinezolvera/Imagenes-evidencia/blob/main/Particulas.png?raw=true" width=1200 height=400>
-<p align="center"
+<p align="center">
+    
+<a href="https://drive.google.com/drive/folders/1eTaugRp4hSV-6mGl4dvnAfz7ByJfqPED?usp=sharing">Versiones del juego</a>
   
    
    
