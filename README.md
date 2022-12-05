@@ -26,28 +26,28 @@
 - Nombre del proyecto : Run Cars 
 - Objetivo: Esquivar a los enemigos mientras se recojen los puntos para avanzar de nivel 
 - Plataforma ,Género, Clasificación, Personajes, Escenario.
-        °Plataforma: 3D
-        °Género: Carrera
-        °Clasificación: Para mayores de 8 años
-        °Personajes: Carro
-        °Escenario: Pradera 
+        -°Plataforma: 3D
+        -°Género: Carrera
+        -°Clasificación: Para mayores de 8 años
+        -°Personajes: Carro
+        -°Escenario: Pradera 
 - Historia:
     °En esta historia encarnaremos a un par de amigos que estan dispues a conseguir todos los tesoros posibles mientras esquiban a los enemigos,
      que desean impedir la travesia de los hermanos en volverse ricos.
 - Personajes : 
-    °Auto:Tendra sonido y particulas al chocar con los autos, lo cual al momento hara que una vida sea reducida de pantalla al chocar esta solo es posible de 
+    -°Auto:Tendra sonido y particulas al chocar con los autos, lo cual al momento hara que una vida sea reducida de pantalla al chocar esta solo es posible de 
      recuperar al tomar alguna que aparece por el mapa.
      Enemigos: Un spaw de enemigos que los hara aparecer en la parte superior de la pantalla siendo estos conformados por autos en su mayoria, pero en ocasiones
      se pueden aparecer algunos animales que tambien intentaran frenar nuestro camino.
 - Reglas de Juego: 
-    °Dependiendo el nivel en que nos encontremos sera la cantidad de vidas con las que contares haciendo que el juego se vuelva mas complejo,
+    -°Dependiendo el nivel en que nos encontremos sera la cantidad de vidas con las que contares haciendo que el juego se vuelva mas complejo,
     si nuestros enemigos llegan a dejar nuestras vidas en 0 perdemos el nivel y volveremos a comenzar.
 - Pantallas de Juego
-   °Pantalla de inicio
-   °Pantalla de ayuda
-   °Pantalla de seleccion de niveles
-   °Nivel 1,2 , etc.
-   °Pantalla de pausa 
+   -°Pantalla de inicio
+   -°Pantalla de ayuda
+   -°Pantalla de seleccion de niveles
+   -°Nivel 1,2 , etc.
+   -°Pantalla de pausa 
 - Plan de creación de VideoJuego.
 
 ## Código Fuente
