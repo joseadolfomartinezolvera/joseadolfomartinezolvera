@@ -129,7 +129,10 @@ Algo que tambien utilizaremos seran las particulas de explosion ya que buscamos 
 <p align="center">
     
 <a href="https://drive.google.com/drive/folders/1eTaugRp4hSV-6mGl4dvnAfz7ByJfqPED?usp=sharing">Versiones del juego</a>
-  
+<a href="https://joseadolfomartinezolvera.itch.io/run-cars">Ejecutable del juego</a>
+<a href="https://drive.google.com/file/d/1w-Cae5Mr7P0mdb3RcZKpFQAfB54oPce4/view?usp=sharing">Demostracion de la realizacion del ejecutable</a>
+<a href="https://drive.google.com/file/d/102aUMKe0xr7Rz9vhrBsOPsBILXxxhEY8/view?usp=sharing">Documento Aspectos legales</a>
+
    
    
 ## Autor
